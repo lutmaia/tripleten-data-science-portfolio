@@ -82,9 +82,9 @@ Para conhecer o trabalho, basta abrir os notebooks pelo GitHub: as saídas e os 
 
 ## Dados e resultados
 
-Os datasets não estavam junto aos arquivos recebidos e não estão incluídos no repositório. As métricas apresentadas vêm das saídas ou dos relatos identificados nos notebooks; **não houve retreinamento dos modelos na organização deste portfólio**.
+Os datasets não estavam junto aos arquivos recebidos e não estão incluídos no repositório. As métricas vêm das saídas ou dos relatos identificados nos notebooks. **OilyGiant foi corrigido e reexecutado em 22/09/2026**, com os datasets do curso, resultados atualizados e quatro testes de regressão. Os demais modelos não foram retreinados na organização deste portfólio.
 
-As limitações metodológicas observadas estão descritas nos READMEs. Em particular, o bootstrap de OilyGiant requer revisão antes de se usar seu lucro estimado como resultado validado. Os destaques consideram completude, diversidade de técnicas e clareza da ligação com o negócio.
+As limitações metodológicas observadas estão descritas nos READMEs. Os destaques consideram completude, diversidade de técnicas e clareza da ligação com o negócio.
 
 Os estudos são educacionais. Estimativas de retorno ou economia representam cenários dos exercícios, sem comprovação de impacto em produção. Enunciados, dados e marcas pertencem aos respectivos titulares.
 
