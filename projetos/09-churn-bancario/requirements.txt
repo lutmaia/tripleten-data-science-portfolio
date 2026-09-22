@@ -1,0 +1,9 @@
+# Dependências identificadas nos imports; versões originais não foram fornecidas.
+# Esta lista não é um lockfile nem um ambiente validado por reexecução.
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
